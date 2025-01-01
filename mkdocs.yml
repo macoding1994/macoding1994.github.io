@@ -1,4 +1,32 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+# [Info]
+# 左上角标题
+site_name: SHANGJU WEBSITE
+site_url: https://macoding1994.github.io
+site_author: SHANGJU
+site_description: SHANGJU WEBSITE
+
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Me:
+     - cybersecurity-portfolio/about_me.md
+     - cybersecurity-portfolio/technical_skills.md
+     - cybersecurity-portfolio/project_experience.md
+     - cybersecurity-portfolio/learning_journey.md
+     - cybersecurity-portfolio/career_objective.md
+
+  - Blog:
+     - blog/about_me.md
+
+plugins:
+  - social:
+      cards_layout: default
