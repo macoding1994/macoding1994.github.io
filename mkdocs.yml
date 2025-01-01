@@ -4,9 +4,22 @@ site_name: SHANGJU WEBSITE
 site_url: https://macoding1994.github.io
 site_author: SHANGJU
 site_description: SHANGJU WEBSITE
+repo_url: https://github.com/macoding1994
 
 theme:
   name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -28,5 +41,11 @@ nav:
      - blog/about_me.md
 
 plugins:
+  - search:
   - social:
       cards_layout: default
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
