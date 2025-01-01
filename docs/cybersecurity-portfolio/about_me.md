@@ -18,6 +18,15 @@ My ultimate goal is to combine my expertise in backend development and cybersecu
 
 Feel free to connect with me to discuss technology, cybersecurity, or potential collaborations!
 
+# Certifications and Training
+
+- **Cisco Certified Network Associate (CCNA)**  
+  *Status*: Currently enrolled in CCNA training.  
+  *Overview*: The CCNA certification validates knowledge and skills in network fundamentals, IP connectivity, security fundamentals, and more. 
+
+- **Cybersecurity Certifications**  
+  *Status*: No current certifications in the cybersecurity domain.  
+  *Considerations*: Exploring entry-level cybersecurity certifications to enhance industry knowledge and skills.
 
 
 
