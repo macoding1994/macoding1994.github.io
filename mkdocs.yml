@@ -1,7 +1,7 @@
 # [Info]
 # 左上角标题
 site_name: SHANGJU WEBSITE
-site_url: https://macoding1994.github.io
+site_url: https://macoding1994.github.io/cybersecurity-portfolio
 site_author: SHANGJU
 site_description: SHANGJU WEBSITE
 repo_url: https://github.com/macoding1994
@@ -31,14 +31,22 @@ theme:
 nav:
   - Home: index.md
   - Me:
-     - cybersecurity-portfolio/about_me.md
-     - cybersecurity-portfolio/technical_skills.md
-     - cybersecurity-portfolio/project_experience.md
-     - cybersecurity-portfolio/learning_journey.md
-     - cybersecurity-portfolio/career_objective.md
+     - me/about_me.md
+     - me/technical_skills.md
+     - me/project_experience.md
+     - me/learning_journey.md
+     - me/career_objective.md
 
-  - Blog:
-     - blog/about_me.md
+  - Networking & Security:
+     - Networking & Security/Firewalld.md
+     - Networking & Security/General.md
+     - Networking & Security/Host Files.md
+     - Networking & Security/Netcat.md
+     - Networking & Security/Networking.md
+     - Networking & Security/SSH & Port Forwarding.md
+     - Networking & Security/SSH Server.md
+     - Networking & Security/Using ADB.md
+     - Networking & Security/Using Netsh.md
 
 plugins:
   - search:
