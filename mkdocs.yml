@@ -29,7 +29,7 @@ theme:
     - toc.integrate
 
 nav:
-  - Home: Hi.md
+  - Home: index.md
   - Me:
      - me/about_me.md
      - me/technical_skills.md
